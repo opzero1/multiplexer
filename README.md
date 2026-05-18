@@ -19,3 +19,7 @@ Supported skill files:
 - `apple-terminal.md`
 - `tmux.md`
 - `zellij.md`
+
+Shell helper:
+
+- `bare.zsh`: defines `b`, `s`, `cx`, and `cxi`; source it from `~/.zshrc`.
